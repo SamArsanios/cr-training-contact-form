@@ -380,3 +380,24 @@ input {
   outline: none; */
 }
 
+.btn {
+  /* width: 20%; */
+  margin-top: 3%;
+  background-color: #1a4fb3;
+  color: #fff;
+  padding: 10px;
+  /* border: none; */
+  cursor: pointer;
+}
+
+/* textarea {
+  background: #fbf8f7;
+  border: none;
+  outline: none;
+} */
+
+::placeholder {
+  color: #979493;
+  font-size: 1em;
+  padding-bottom: 42px;
+}

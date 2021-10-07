@@ -356,7 +356,7 @@ footer {
 
 .name-input {
   display: flex;
-  width: 100%;
+  width: 110%;
   justify-content: space-between;
 }
 
@@ -383,7 +383,6 @@ input {
 }
 
 .btn {
-  /* width: 20%; */
   margin-top: 3%;
   background-color: #1a4fb3;
   color: #fff;

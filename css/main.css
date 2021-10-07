@@ -375,6 +375,7 @@ footer {
 input {
   padding: 14px;
   margin-bottom: 2%;
+
   /* border-top: none;
   border-left: none;
   border-right: none;
@@ -387,6 +388,7 @@ input {
   background-color: #1a4fb3;
   color: #fff;
   padding: 10px;
+
   /* border: none; */
   cursor: pointer;
 }

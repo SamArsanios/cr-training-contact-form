@@ -344,7 +344,8 @@ footer {
 .form-container p {
   /* width: 35%; */
   font-weight: lighter;
-  font-size: 40px;
+  font-size: 33px;
+  margin-bottom: 33px;
 }
 
 .inputs {

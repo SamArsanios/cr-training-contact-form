@@ -335,14 +335,14 @@ footer {
 }
 
 .form-container {
-  /* display: flex;
+  display: flex;
   justify-content: space-between;
-  width: 90%; */
+  width: 90%;
   margin-left: 5%;
 }
 
 .form-container p {
-  /* width: 35%; */
+  width: 35%;
   font-weight: lighter;
   font-size: 33px;
   margin-bottom: 33px;
@@ -361,13 +361,13 @@ footer {
 }
 
 .first-name {
-  /* display: flex; */
+  display: flex;
   flex-direction: column;
   width: 90%;
 }
 
 .email {
-  /* display: flex; */
+  display: flex;
   flex-direction: column;
   width: 100%;
 }
@@ -388,16 +388,14 @@ input {
   background-color: #1a4fb3;
   color: #fff;
   padding: 10px;
-
-  /* border: none; */
+  border: none;
   cursor: pointer;
 }
 
-/* textarea {
+textarea {
   background: #fbf8f7;
-  border: none;
   outline: none;
-} */
+}
 
 ::placeholder {
   color: #979493;

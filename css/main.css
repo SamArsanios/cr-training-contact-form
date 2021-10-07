@@ -346,3 +346,15 @@ footer {
   font-weight: lighter;
   font-size: 40px;
 }
+
+
+
+input {
+  padding: 14px;
+  margin-bottom: 2%;
+  /* border-top: none;
+  border-left: none;
+  border-right: none;
+  outline: none; */
+}
+

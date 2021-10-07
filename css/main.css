@@ -325,3 +325,24 @@ li {
 .skills {
   list-style: inside url("../media/svg/circle.svg");
 }
+
+footer {
+  height: 500px;
+  margin-top: 3%;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 300;
+}
+
+.form-container {
+  /* display: flex;
+  justify-content: space-between;
+  width: 90%; */
+  margin-left: 5%;
+}
+
+.form-container p {
+  /* width: 35%; */
+  font-weight: lighter;
+  font-size: 40px;
+}

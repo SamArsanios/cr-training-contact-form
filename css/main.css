@@ -356,11 +356,18 @@ footer {
 
 .name-input {
   display: flex;
-  width: 110%;
+  width: 100%;
   justify-content: space-between;
 }
 
 .first-name {
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+  margin-right: 25px;
+}
+
+.last-name {
   display: flex;
   flex-direction: column;
   width: 90%;
@@ -375,11 +382,13 @@ footer {
 input {
   padding: 14px;
   margin-bottom: 2%;
+  border: none;
+  border-bottom: 1px solid gray;
 }
 
 .btn {
   margin-top: 3%;
-  background-color: #1a4fb3;
+  background-color: #F55800;
   color: #fff;
   padding: 10px;
   border: none;
@@ -387,7 +396,8 @@ input {
 }
 
 textarea {
-  background: #fbf8f7;
+  background: #FBF8F7;
+  border:none;
   outline: none;
 }
 

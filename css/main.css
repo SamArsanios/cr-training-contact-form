@@ -388,7 +388,7 @@ input {
 
 .btn {
   margin-top: 3%;
-  background-color: #F55800;
+  background-color: #f55800;
   color: #fff;
   padding: 10px;
   border: none;
@@ -396,8 +396,8 @@ input {
 }
 
 textarea {
-  background: #FBF8F7;
-  border:none;
+  background: #fbf8f7;
+  border: none;
   outline: none;
 }
 
